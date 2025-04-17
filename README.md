@@ -1,4 +1,4 @@
-<table>
+<table border = "none">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" alt="Welcome" /></td>
     <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhoeG9uanZvNWhvcDYyc2NuODFhdHNtdXZjb2VnNTM3eGlmbjZ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWozHdU8wPsru/giphy.gif" alt="Typing" /></td>
@@ -6,7 +6,7 @@
 </table>
 
 
-## 📬 Aloqa
+## 📬 Contact 
 
 <p>
   <a href="https://t.me/bu_xavoIa_band" target="_blank">
@@ -32,5 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DebySanjar&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DebySanjar&theme=tokyonight" />
 </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DebySanjar&theme=tokyonight&column=7" />
+
 
 📌 Eslatma: Eslab qol!
