@@ -10,13 +10,14 @@
 
 ## 🗂 Portfolio
 
-<p align="center">
+<p>
   <a href="https://t.me/qidirsa_chiqadi" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel Badge"/>
   </a>
 </p>
 
 <p align="center">
+  <p>My skills: </p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -25,6 +26,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,mysql,figma,html,css,git,github" />
 </p>
 
 📌 Eslatma: Eslab qol!
