@@ -1,10 +1,10 @@
-<table border = "0">
+<table border = "0"> 
   <tr>
     <td><img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" alt="Welcome" /></td>
-    <td>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Sanjar,+an+Android+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-</td>
+    <td><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Sanjar,+an+Android+Developer;Welcome+to+my+GitHub!" alt="Typing SVG"></a></td>
   </tr>
 </table>
+
 
 
 ## 📬 Contact 
@@ -23,11 +23,13 @@
   </a>
 </p>
 
+<br></br>
+
 <h3 align="center">💻 My Skills</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,mysql,figma,html,css,git,github" />
 </p>
-
+<br></br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DebySanjar&show_icons=true&theme=tokyonight" />
