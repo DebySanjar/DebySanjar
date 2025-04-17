@@ -1,13 +1,5 @@
 ## 👋  Salom!
-
-### 📫 Murojaat qilish uchun:
-
-Contact: https://t.me/bu_xavoIa_band
-
-Agar sizda:
-- ❓ Biror Android savoli bo‘lsa,
-- 💡 Yoki loyiha g‘oyangiz bo‘lsa,
-- 🎮 Yoki shunchaki “Coding haqida gaplashamizmi?” demoqchi bo‘lsangiz...
+https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif
 
 ---
 ## Portfolio channel : https://t.me/qidirsa_chiqadi
