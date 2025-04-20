@@ -30,7 +30,7 @@
 
 <h3 align="center">📍 My Skills 📍</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,mysql,figma,html,css,c++,intellijidea,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,mysql,figma,html,css,cpp,idea,firebase,git,github" />
 </p>
 
 
