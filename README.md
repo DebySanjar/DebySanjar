@@ -40,6 +40,18 @@
 </p>
 
 ---
+<h2 align="center">💻 My Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,mysql,figma,html,css,cpp,idea,firebase,git,github" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DebySanjar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DebySanjar&theme=tokyonight" />
+</p>
 
 <!-- GitHub Trophies -->
 <h3 align="center">🏆 My Rank</h3>
