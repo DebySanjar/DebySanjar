@@ -4,17 +4,16 @@
 </p>
 
 <h2 align="center">
-  Feel free to browse through my portfolio and connect with me.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=🚀+Passionate+Android+Developer;Building+cool+things.;Explore+my+portfolio+and+connect!"/>
 </h2>
 
 ---
 
 <!-- Contact Section -->
-<!-- Contact Section -->
 <h2>
-  📬 Contact <span>👉</span>
+  📬 For contact <span> 👉 </span>
   <a href="https://t.me/bu_xavoIa_band" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24" style="vertical-align: middle;" />
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="24" height="24" style="vertical-align: middle;" />
   </a>
 </h2>
 
@@ -28,9 +27,9 @@
 
 <!-- Portfolio Section -->
 <h2>
-  🗂 Portfolio <span>👉</span>
+  🗂 Portfolio channel <span> 👉 </span>
   <a href="https://t.me/qidirsa_chiqadi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24" style="vertical-align: middle;" />
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="24" height="24" style="vertical-align: middle;" />
   </a>
 </h2>
 
@@ -39,6 +38,7 @@
     <img src="https://img.shields.io/badge/Portfolio%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel Badge"/>
   </a>
 </p>
+
 
 
 
