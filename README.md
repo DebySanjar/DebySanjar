@@ -10,23 +10,35 @@
 ---
 
 <!-- Contact Section -->
-<h2>📬 Contact <span>👉</span><p>
+<!-- Contact Section -->
+<h2>
+  📬 Contact <span>👉</span>
+  <a href="https://t.me/bu_xavoIa_band" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24" style="vertical-align: middle;" />
+  </a>
+</h2>
+
+<p>
   <a href="https://t.me/bu_xavoIa_band" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</p></h2>
-
-
+</p>
 
 ---
 
 <!-- Portfolio Section -->
-<h2>🗂 Portfolio <span>👉</span> 
-  <p>
+<h2>
+  🗂 Portfolio <span>👉</span>
+  <a href="https://t.me/qidirsa_chiqadi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24" style="vertical-align: middle;" />
+  </a>
+</h2>
+
+<p>
   <a href="https://t.me/qidirsa_chiqadi" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel Badge"/>
   </a>
-</p></h2>
+</p>
 
 
 
