@@ -1,16 +1,16 @@
+<!-- Welcome Section -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" alt="Welcome" />
+</p>
 
-  
-<img align= "center"  src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" alt="Welcome" />
-  
-<h2 align="center">Feel free to browse through my portfolio and connect with me.
-</h2>      
+<h2 align="center">
+  Feel free to browse through my portfolio and connect with me.
+</h2>
 
+---
 
-
-
-
-
-## 📬 Contact 
+<!-- Contact Section -->
+<h2>📬 Contact <span>👉</span> <a href="https://t.me/bu_xavoIa_band" target="_blank">Telegram</a></h2>
 
 <p>
   <a href="https://t.me/bu_xavoIa_band" target="_blank">
@@ -18,7 +18,10 @@
   </a>
 </p>
 
-## 🗂 Portfolio
+---
+
+<!-- Portfolio Section -->
+<h2>🗂 Portfolio <span>👉</span> <a href="https://t.me/qidirsa_chiqadi" target="_blank">Portfolio Channel</a></h2>
 
 <p>
   <a href="https://t.me/qidirsa_chiqadi" target="_blank">
@@ -26,23 +29,28 @@
   </a>
 </p>
 
-<h3 align="center">My Skills</h3>
+---
+
+<!-- Skills Section -->
+<h3 align="center">💻 My Skills</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,mysql,figma,html,css,cpp,idea,firebase,git,github" />
 </p>
 
+---
 
-
-
-<br></br>
-
+<!-- GitHub Stats Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DebySanjar&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DebySanjar&theme=tokyonight" />
 </p>
-<br></br>
 
-<h3 align="center"> My Rank </h3>
-<img src="https://github-profile-trophy.vercel.app/?username=DebySanjar&theme=tokyonight&column=7" />
+---
 
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 My Rank</h3>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DebySanjar&theme=tokyonight&column=7" />
+</p>
