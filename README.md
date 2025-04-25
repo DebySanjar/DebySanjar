@@ -21,41 +21,42 @@
   <a href="https://t.me/bu_xavoIa_band" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</p>
+</p>  
 
 ---
 
-<!-- Portfolio Section -->
-<h2>
-  🗂 Portfolio channel <span> 👉 </span>
-  <a href="https://t.me/qidirsa_chiqadi" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="24" height="24" style="vertical-align: middle;" />
-  </a>
-</h2>
-
-<p>
-  <a href="https://t.me/qidirsa_chiqadi" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel Badge"/>
-  </a>
-</p>
-
-
-
-
----
-
-<!-- Skills Section -->
-<h2 align="center">💻 My Skills</h2>
+<!-- Contact & Portfolio Section -->
+<h2 align="center">🌐 Let's Connect & Explore</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,mysql,figma,html,css,cpp,idea,firebase,git,github" />
-</p>
+  <a href="https://t.me/bu_xavoIa_band" target="_blank" style="
+    background: linear-gradient(to right, #2CA5E0, #007bb5);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: sans-serif;
+    margin-right: 15px;
+    display: inline-block;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  ">
+    📬 Telegram
+  </a>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DebySanjar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DebySanjar&theme=tokyonight" />
+  <a href="https://t.me/qidirsa_chiqadi" target="_blank" style="
+    background: linear-gradient(to right, #00C9A7, #00B4D8);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: sans-serif;
+    display: inline-block;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  ">
+    🗂 Portfolio
+  </a>
 </p>
 
 ---
