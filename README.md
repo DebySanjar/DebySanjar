@@ -1,14 +1,12 @@
-<table border = "0">
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" alt="Welcome" /></td>
-    <td border = "none">
-<h2 align="center">Hi there !</h2>
+
+  
+<img  src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" alt="Welcome" />
+  
 <h2 align="center">Feel free to browse through my portfolio and connect with me.
-</h2>
-            
-</td>
-  </tr>
-</table>
+</h2>      
+
+
+
 
 
 
