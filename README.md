@@ -1,6 +1,6 @@
-<!-- Welcome Section -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" alt="Welcome" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh6d3VvYzN6bDd4eHF5M3AyZm9pa3VkM2NjNjhwbXFuanJyMTVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Animated Code" width="100%" height="180px"/>
 </p>
 
 <h2 align="center">
@@ -14,13 +14,14 @@
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="24" height="24" style="vertical-align: middle;" />
   </a>
 </h2>
-
 ---
 <h2 align="center">💻 My Skills</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,sqlite,mysql,figma,html,css,cpp,idea,firebase,git,github" />
 </p>
+
+
 
 ---
 
@@ -35,3 +36,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DebySanjar&theme=tokyonight&column=7" />
 </p>
+
+<!-- Wave SVG Background -->
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-waves/main/wave.svg" alt="Wave background" width="100%" height="150px"/>
+
