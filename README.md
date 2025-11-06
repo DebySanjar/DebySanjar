@@ -28,9 +28,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 </p>
 
-<p align="center"><b>🎨 Designv and veb development</b></p>
+<p align="center"><b>🎨 Design and veb development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=figma,html" />
 </p>
 
 
