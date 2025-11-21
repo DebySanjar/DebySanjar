@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍💻Teorya About Me
+## 👨‍💻 About Me
 - 🌱 Currently learning **Flutter & Advanced Android (Kotlin)**
 - 📫 Reach me on [Telegram](https://t.me/Sanjarbek_Abduganiyev)
 - 📢 My Channel: [Developer Blog UZ](https://t.me/Developer_blog_uz)
@@ -13,40 +13,46 @@
 
 ## 💻 My Skills
 
-<p align="center"><b>📱 Mobile Development</b></p>
+### 📱 Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart" />
 </p>
 
-<p align="center"><b>🔙 Backend & Database</b></p>
+### 🔙 Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
 </p>
 
-<p align="center"><b>🛠 Tools</b></p>
+### 🛠 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 </p>
 
-<p align="center"><b>🎨 Design and veb development</b></p>
+### 🎨 Design & Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js" />
 </p>
-
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DebySanjar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DebySanjar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DebySanjar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebySanjar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 My Rank
+## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DebySanjar&theme=tokyonight&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebySanjar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## ⚡ Connect with me
+<p align="center">
+  <a href="https://t.me/Sanjarbek_Abduganiyev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/DebySanjar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/debysanjar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
