@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sanjar</h1>
-<h3 align="center">🚀 Passionate Mobile Developer | Building cool things</h3>
+<h1 align="center">Hi 👋, I'm Hmmmmm</h1>
+<h3 align="center">Full-stack Mobile Developer | Context engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🌱 Currently learning **Flutter & Advanced Android (Kotlin)**
-- 📫 Reach me on [Telegram](https://t.me/Sanjarbek_Abduganiyev)
-- 📢 My Channel: [Developer Blog UZ](https://t.me/Developer_blog_uz)
+- 📫 Reach me on [Telegram](https://t.me/abdugan1yevs)
+- 📢 My Channel: [Developer Blog UZ](https://t.me/qidirsa_chiqadi)
 - ⚡ Fun fact: *Code + Coffee = Perfect Combo ☕*
 
 ---
