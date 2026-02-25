@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/github/followers/DebySanjar?style=flat&logo=github" />
   <img src="https://img.shields.io/github/stars/DebySanjar?style=flat&logo=github" />
 </p>
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/DebySanjar/DebySanjar/gh-pages/snake.svg" />
-
 ## 🚀 Tech Insights
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DebySanjar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
