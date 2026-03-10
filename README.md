@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/github/stars/DebySanjar?style=flat&logo=github" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400"/>
-</p>
-
 ## 🚀 Tech Insights
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DebySanjar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
